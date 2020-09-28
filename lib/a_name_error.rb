@@ -1,3 +1,3 @@
-greeting ="hello there"
+greeting ="hello ether"
 
 hello_world
